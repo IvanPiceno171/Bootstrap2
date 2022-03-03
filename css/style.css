@@ -1,0 +1,34 @@
+nav{
+    background-color: rgba(22, 180, 49, 0.397);
+    height: 50px;
+}
+.breadcrumb{
+    justify-content: right;
+}
+
+/* top table */
+.btn{
+    border-radius: 35px 10px;
+    font-size: small;
+}
+i{
+    color: blue;
+}
+
+i:hover{
+    color: brown;
+    font-size: 20px;
+}
+/* Todos */
+.blue{
+    background-color: rgba(0, 0, 255, 0.473);
+}
+.red{
+    background-color: rgba(255, 0, 0, 0.616);
+}
+.green{
+    background-color: green;
+}
+.gold{
+    background-color: gold;
+}
